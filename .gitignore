@@ -5,7 +5,5 @@
 .metadata
 .classpath
 .project
-/target/
-winpkg/target
-.DS_Store
+target
 .idea
